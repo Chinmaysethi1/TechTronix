@@ -58,11 +58,9 @@ export const Event_data = [
         fullname: "Circuit Modelling/Designing - LOGIC LABYRINTH",
         theme: "To find the solution to the technical problems in our society by using basic circuital elements such as resistor, capacitor,transistors.",
         img: "/images/img-4.jpg",
-        description: `“Circuit by Circuit, We Illuminate the Path to Innovation.”
-        Once you know how to solve problems through a few components and circuits, you can start the journey of future innovations.This can help a student to come up with new technologies and innovations.
-        Yet again here is a challenge for young tinkering minds whose hearts beat for a better tomorrow, “Logic Labyrinth” the circuit-making competition. Wherein you are required to assemble your team to find the solution to the technical problems by using the basic circuital elements.
-        The EL & TC Society invites you to be a part of our technical fest TECHTRONIX. Join us in the Logic Labyrinth where your circuits being efficient and economic will be beneficial for society.
-        Winners will be rewarded with exciting prizes!!`
+        description: `Innovation begins with a single connection where an idea is brought to life through circuits and components. LOGIC LABYRINTH is a circuit modeling competition that challenges young engineers and electronics enthusiasts to apply theoretical knowledge to real-world problems. Participants formulate, analyze, and design efficient, cost-effective circuit models, showcasing creativity, logical thinking, and problem-solving skills.
+
+        The EL & TC Society proudly presents TECHTRONIX, a technical fest celebrating innovation and engineering excellence. Compete with bright minds, showcase your expertise, gain valuable insights, and stand a chance to win exciting prizes.`
         ,
         rules: ["It should be eco friendly.", "It should be economical.", "The circuit should be made by the materials which are readily available.", "It should be made from elements such as resistors, capacitors.", "No microprocessors or other fancy circuits should be used.", "It should be easy to use.", "It should be beneficial to the society."
         ],
