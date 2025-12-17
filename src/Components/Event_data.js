@@ -71,7 +71,7 @@ export const Event_data = [
         id: 4,
         name: "HACKSPHERE",
         fullname: "Internal Hackathon - HACKSPHERE",
-        img: "/images/HACKSPHERE.jpg",
+        img: "/images/HACKSPEHRE.jpg",
         istheme: false,
         isurl2: false,
         isRule:true,
