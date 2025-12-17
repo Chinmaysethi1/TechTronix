@@ -5,7 +5,7 @@ import Name from "./Name";
 
 const list = [
   {
-    name: "prof. bansidhar majhi",
+    name: "prof. Dr. Dipak Kumar Sahoo",
     desig: "hon'ble vice chancellor, chief patron",
   },
 ];
@@ -13,16 +13,16 @@ const list = [
 const list2 = [
   { name: "shri pradeep dang", desig: "registrar" },
   { name: "shri tularam kalet", desig: "controller of finance" },
-  { name: "prof. sidharth panda", desig: "head, ses" },
-  { name: "prof. sanjay agarwal", desig: "dean academics" },
+  { name: "prof. Sanjay agarwal", desig: "head, ses" },
+  { name: "prof. Sanjay Kumar Pato", desig: "dean academics" },
   { name: "prof. debasis mishra"},
   { name: "prof. manoranjan pradhan"},
   { name: "prof. kabiraj sethi" },
-  { name: "prof. nilamani bhoi" },
+  { name: "prof. harish kumar sahoo" },
   { name: "prof. arunanshu mahapatro" },
 ];
 const list3 = [
-  { name: "prof. dr. harish kumar sahoo", desig: "head of the department" },
+  { name: "Prof. Dr.Nilamani Bhoi", desig: "head of the department" },
 ];
 const list4 = [
   { name: "dr. diptimayee konhar", desig: "pic, etce society" }
@@ -43,15 +43,15 @@ const list5 = [
   { name: "prof. s. sa" },
   { name: "prof. s. ku. sethi" },  
   { name: "prof. r. patra" },
-  { name: "prof. b. ku. bhoi" },
+  { name: "prof. b. kumar" },
   { name: "prof. sheeja k. l." },
   { name: "prof. s. mohapatro" },
 ];
 const list6 = [
-  { name: "Rashmi Ranjan Dishri", desig: "Secretary" },
-  { name: "Subhashree Bastia", desig: "Joint Secretary" },
-  { name: "Chinmay Priyansu", desig: "Assistant Secretary" },
-  { name: "Aadyasha Sahoo", desig: "Assistant Joint Secretary" },
+  { name: "Ayush Patel", desig: "Secretary" },
+  { name: "Shreyanshi Swain", desig: "Joint Secretary" },
+  { name: "Hari Shah", desig: "Assistant Secretary" },
+  { name: "Shruti patra", desig: "Assistant Joint Secretary" },
 ];
 
 function Member() {
@@ -131,6 +131,7 @@ function Member() {
       >
         head of the department/ convenor
       </Box>
+      
       <Box
         sx={{
           display: "flex",
@@ -152,6 +153,7 @@ function Member() {
       >
         PIC,ETCE/CO-CONVENOR
       </Box>
+      
       <Box
         sx={{
           display: "flex",
