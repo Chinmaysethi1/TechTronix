@@ -26,7 +26,7 @@ function Home() {
       
       
       <Box 
-      sx={{ fontSize: {xs:"5rem",md:"10rem"}, fontWeight: "700", position: "absolute", bottom: "50vh", left: '50%',top:"50%", transform: "translate(-50%,-50%)", color: "#f1f1f1",display:"flex",flexDirection:"column",justifyContent:"center",alignItems:'center' }}><img src="./Techtronixlogo2026.png"width="700px" height="50px"/>
+      sx={{ fontSize: {xs:"5rem",md:"10rem"}, fontWeight: "700", position: "absolute", bottom: "50vh", left: '50%',top:"50%", transform: "translate(-50%,-50%)", color: "#f1f1f1",display:"flex",flexDirection:"column",justifyContent:"center",alignItems:'center' }}><img src="./images/Techtronixlogo2026.png" width="500px" height="100px"/>
       <Box >
         {!userTokenExists &&(
         <Link to="/signup">

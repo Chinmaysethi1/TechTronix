@@ -235,7 +235,7 @@ const handleClick2 = async (url2) => {
             </Box>):""}
             {(isprob)?
             <>
-            <Button onClick={handleDownload}
+            {/* <Button onClick={handleDownload}
             variant="outlined"
             sx={{
               color: "#f1f1f1",
@@ -249,7 +249,7 @@ const handleClick2 = async (url2) => {
             }}
           >
             DownLoad Problem Statement 
-          </Button>
+          </Button> */}
             </>
             
             :""}
@@ -292,7 +292,7 @@ const handleClick2 = async (url2) => {
           </Button>
           
             <></>
-              <Button onClick={() => handleClick2(url2)}
+              {/* <Button onClick={() => handleClick2(url2)}
                 variant="outlined"
                 sx={{
                   color: "#f1f1f1",
@@ -318,7 +318,7 @@ const handleClick2 = async (url2) => {
                 
               }}>: - For School students</span>
 
-              </Button > 
+              </Button >  */}
             
             </Box>  
             </>
