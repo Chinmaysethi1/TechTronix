@@ -10,7 +10,7 @@ import Schedule from './Components/Schedule';
 import Home from './Components/Home';
 import {  animateScroll as scroll } from 'react-scroll';
 import { Box } from '@mui/material';
-import Sponser from './Components/Sponser';
+// import Sponser from './Components/Sponser';
 import Footer from './Components/Footer';
 import Table from './Components/Table';
 import About from './Components/About';
@@ -46,7 +46,7 @@ function App() {
                 <Table></Table>
                 <Member></Member>
 
-                <Sponser></Sponser>
+                {/* <Sponser></Sponser> */}
                 <Footer />
                 {/* <EventsPage></EventsPage> */}
               </Box>

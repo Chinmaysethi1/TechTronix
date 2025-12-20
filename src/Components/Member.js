@@ -53,6 +53,9 @@ const list6 = [
   { name: "Hari Shah", desig: "Assistant Secretary" },
   { name: "Shruti patra", desig: "Assistant Joint Secretary" },
 ];
+const list7 = [
+  { name: "dr. Bandhan kumar bhoi", desig: "pic, etce society" }
+];
 
 function Member() {
   const names = list.map((item) => {
@@ -72,6 +75,9 @@ function Member() {
   });
   const names6 = list6.map((item) => {
     return <Name name={item.name} desig={item.desig} isdesig={true}></Name>;
+  });
+  const names7 = list7.map((item) => {
+    return <Name name={item.name} desig={item.desig} isdesig={false}></Name>;
   });
 
   return (
@@ -164,6 +170,27 @@ function Member() {
         }}
       >
         {names4}
+      </Box>
+      <Box
+        sx={{
+          fontSize: "2rem",
+          margin: "4rem 0 4rem 4rem",
+          fontWeight: "400",
+          letterSpacing: "0.5rem",
+        }}
+      >
+        FIC,ETCE/CO-CONVENOR
+      </Box>
+      <Box
+        sx={{
+          display: "flex",
+          padding: "0 4rem",
+          rowGap: "2rem",
+          columnGap: "2rem",
+          flexWrap: "wrap",
+        }}
+      >
+        {names7}
       </Box>
       <Box
         sx={{
