@@ -65,7 +65,7 @@ export const Event_data = [
 
         time: `10.01.2026 - 10:00am-01:00pm`,
         venue: "E.Learning VSSUT",
-        url: 'https://docs.google.com/forms/d/16M53lPEQ2mlugxb4vjHC1l7GizWJvovAlbfITrCQUis/viewform?edit_requested=true'
+        url: 'https://forms.gle/5iuH86ZmFcfSNXsU7'
     },
     {
         id: 4,
@@ -86,7 +86,7 @@ Hosted under TECHTRONIX by the EL & TC Society, Hackspere is a platform for crea
         rules: ["Participation for the event will be only accepted for groups.","Each group must contain 4 members.","In first round, Each team will have to submit an abstact within 200 word along with PPT.","Each team will get 2 to 3 minutes to present their PPT.","In the second round, the selected teams will have to prepare the solution for their respective problem statement.","Each participant can only participate in one group." ],
         time: `10.01.2026 - 10:00am-01:00pm`,
         venue: "Auditorium VSSUT",
-        url : 'https://docs.google.com/forms/d/1vAAp9cNJzNG5288mYejYCSZ9v0tZ7hH_NloVI1N6cjw/viewform?edit_requested=true'
+        url : 'https://forms.gle/13Xi8Fz2VaTFmYiLA'
     },
     {
         id:5,
@@ -132,8 +132,8 @@ Hosted under TECHTRONIX by the EL & TC Society, Hackspere is a platform for crea
         time: `10.01.2026 - 10:00am-01:00pm
     `,
         venue: "E.Learning VSSUT",
-        url : 'https://docs.google.com/forms/d/1JFt4siGQf-X6k167-4baQ1IzkWgQjoVTXTmsbn9ArFg/viewform?chromeless=1&edit_requested=true&fbzx=2440563557209694685',
-        url2 : 'https://docs.google.com/forms/u/0/d/1v-G7XPctYdcShfdHLoNvo2hhpX1JsKW_j9W0bRm5Dzw/viewform?edit_requested=true',
+        url : 'https://forms.gle/rBSbK4wX7N1Zh8jC6',
+        // url2 : 'https://docs.google.com/forms/u/0/d/1v-G7XPctYdcShfdHLoNvo2hhpX1JsKW_j9W0bRm5Dzw/viewform?edit_requested=true',
     },
     // {
     //     id:7,
