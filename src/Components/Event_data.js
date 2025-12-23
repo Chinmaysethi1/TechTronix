@@ -108,7 +108,7 @@ Hosted under TECHTRONIX by the EL & TC Society, Hackspere is a platform for crea
         ],
         time: `10.01.2026 - 02:30pm-04:30pm`,
         venue: "E.Learning VSSUT",
-        url : 'https://docs.google.com/forms/d/1VHHLpRo-t0sFd6OZBYFTeoIuoqM2yd05JNbPHNjmbz4/viewform?edit_requested=true'
+        url : 'https://forms.gle/TCFAtzHAoGMr8qcv6'
     },
     {
         id:6,
