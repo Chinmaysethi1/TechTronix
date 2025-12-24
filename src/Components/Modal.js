@@ -264,7 +264,7 @@ const handleClick2 = async (url2) => {
             display:"flex",
             flexDirection:"column"
           }}>
-          <Button onClick={() => handleClick(url)}
+          {/* <Button onClick={() => handleClick(url)}
             variant="outlined"
             sx={{
               color: "#f1f1f1",
@@ -289,10 +289,10 @@ const handleClick2 = async (url2) => {
               alignItems:"flex-start"
                 
               }}>: - For College students</span>
-          </Button>
+          </Button> */}
           
             <></>
-              {/* <Button onClick={() => handleClick2(url2)}
+              <Button onClick={() => handleClick2(url2)}
                 variant="outlined"
                 sx={{
                   color: "#f1f1f1",
@@ -318,7 +318,7 @@ const handleClick2 = async (url2) => {
                 
               }}>: - For School students</span>
 
-              </Button >  */}
+              </Button > 
             
             </Box>  
             </>
