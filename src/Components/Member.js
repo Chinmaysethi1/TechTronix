@@ -14,10 +14,10 @@ const list2 = [
   { name: "shri pradeep dang", desig: "registrar" },
   { name: "shri tularam kalet", desig: "controller of finance" },
   { name: "prof. Sanjay agarwal", desig: "head, ses" },
-  { name: "prof. Sanjay Kumar Pato", desig: "dean academics" },
+  { name: "prof. Sanjay Kumar Patro", desig: "dean academics" },
   { name: "prof. debasis mishra"},
   { name: "prof. manoranjan pradhan"},
-  { name: "prof. kabiraj sethi" },
+  // { name: "prof. kabiraj sethi" },
   { name: "prof. harish kumar sahoo" },
   { name: "prof. arunanshu mahapatro" },
 ];
@@ -32,9 +32,9 @@ const list5 = [
   { name: "prof. r. sahu" },
   { name: "prof. d kumar" },
   { name: "prof. b. ku. sa" },
-  { name: "prof. l. ghadai" },
+  { name: "prof. l. ghadei" },
   { name: "prof. a. ku. behera" },
-  { name: "prof. b. das" },
+  // { name: "prof. b. das" },
   { name: "prof. t. nayak" },
   { name: "prof. s. n. mishra" },
   { name: "prof. a. ku. hota" },
@@ -43,7 +43,7 @@ const list5 = [
   { name: "prof. s. sa" },
   { name: "prof. s. ku. sethi" },  
   { name: "prof. r. patra" },
-  { name: "prof. b. kumar" },
+  { name: "prof. d. kumar" },
   { name: "prof. sheeja k. l." },
   { name: "prof. s. mohapatro" },
 ];
@@ -54,7 +54,7 @@ const list6 = [
   { name: "Shruti patra", desig: "Assistant Joint Secretary" },
 ];
 const list7 = [
-  { name: "dr. Bandhan kumar bhoi", desig: "pic, etce society" }
+  { name: "dr. Bandan kumar bhoi", desig: "pic, etce society" }
 ];
 
 function Member() {
