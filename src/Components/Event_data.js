@@ -21,7 +21,7 @@ export const Event_data = [
         ],
         time: `10.01.2026 - 10:00am-01:00pm`,
         venue: "E.Learning VSSUT",
-        url: 'https://docs.google.com/forms/u/0/d/1WgckB5c2VZ9g9HyYWQ0tBHa0MkNk8txE1ufpOVowDdY/viewform?edit_requested=true'
+        url: 'https://forms.gle/GcYVvYa3iV9uygh17'
     },
     // {
     //     id: 2,
@@ -65,7 +65,7 @@ export const Event_data = [
 
         time: `10.01.2026 - 10:00am-01:00pm`,
         venue: "E.Learning VSSUT",
-        url: 'https://forms.gle/J2E2Tr6Q4agMHFph9'
+        url: 'https://forms.gle/dp9ge6vtNUj7r83t7'
     },
     {
         id: 4,
@@ -86,7 +86,7 @@ Hosted under TECHTRONIX by the EL & TC Society, Hackspere is a platform for crea
         rules: ["Participation for the event will be only accepted for groups.","Each group must contain 4 members.","In first round, Each team will have to submit an abstact within 200 word along with PPT.","Each team will get 2 to 3 minutes to present their PPT.","In the second round, the selected teams will have to prepare the solution for their respective problem statement.","Each participant can only participate in one group." ],
         time: `10.01.2026 - 10:00am-01:00pm`,
         venue: "E.Learning VSSUT",
-        url : 'https://forms.gle/jD9PSRMG3mXyKUoD9'
+        url : 'https://forms.gle/JFc5LWpUqssm5Z437'
     },
     {
         id:5,
@@ -108,7 +108,7 @@ Hosted under TECHTRONIX by the EL & TC Society, Hackspere is a platform for crea
         ],
         time: `10.01.2026 - 02:30pm-04:30pm`,
         venue: "E.Learning VSSUT",
-        url : 'https://forms.gle/TCFAtzHAoGMr8qcv6'
+        url : 'https://forms.gle/CbsKXYViCgRsFuqK6'
     },
     {
         id:6,
@@ -132,7 +132,7 @@ Hosted under TECHTRONIX by the EL & TC Society, Hackspere is a platform for crea
         time: `10.01.2026 - 10:00am-01:00pm
     `,
         venue: "E.Learning VSSUT",
-        url : 'https://forms.gle/rBSbK4wX7N1Zh8jC6',
+        url : 'https://forms.gle/doR4A3LX7urzuESH7',
         // url2 : 'https://docs.google.com/forms/u/0/d/1v-G7XPctYdcShfdHLoNvo2hhpX1JsKW_j9W0bRm5Dzw/viewform?edit_requested=true',
     },
     // {
