@@ -45,7 +45,7 @@ const list5 = [
   { name: "prof. r. patra" },
   { name: "prof. d. kumar" },
   { name: "prof. sheeja k. l." },
-  { name: "prof. s. mohapatro" },
+  { name: "prof. s. Mahapatra" },
 ];
 const list6 = [
   { name: "Ayush Patel", desig: "Secretary" },
