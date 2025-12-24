@@ -4,7 +4,7 @@ export const Event_data = [
         name: "TECHNOVA",
         fullname: "PROJECT PRESENTATION - TECHNOVA",
         img: "/images/img-3.png",
-        istheme: true,
+        istheme: false,
         isurl2: false,
         isRule:true,
         isprob: false,
@@ -48,7 +48,7 @@ export const Event_data = [
     {
         id: 3,
         name: "LOGIC LABYRINTH",
-        istheme: true,
+        istheme: false,
         isurl2: false,
         isRule:true,
         isprob: true,
