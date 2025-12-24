@@ -115,7 +115,7 @@ Hosted under TECHTRONIX by the EL & TC Society, Hackspere is a platform for crea
         name:"Mindscape Rumble",
         fullname:"Quiz Competition - Mindscape Rumble",
         img:"/images/img-5.png",
-        istheme: true,
+        istheme:false,
         isurl2: true,
         isRule:true,
         isprob: false,
