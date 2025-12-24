@@ -38,10 +38,7 @@ function Table() {
             <td>3:27pm – 3:30pm</td>
             <td>Vote of thanks by PIC, ETC Society</td>
         </tr>
-        <tr>
-            <td>3:00 pm - 4:00 pm</td>
-            <td>Mindscape Rumble(technical Quiz)</td>
-        </tr>
+        
         <tr>
             <td>3:30pm – 4:30pm</td>
             <td>Technical Talk-I
