@@ -42,11 +42,16 @@ function About() {
                 >
                     <Box sx={{ marginLeft: "2rem", fontSize: { xs: "1.6rem", md: "1.6rem" }, fontWeight: "400", textTransform: "capitalize", textAlign: "justify" }}>
                         <b>
-                            "Connecting Innovations: Amplifying the Future - EL&TCFest 2024"
+                            Innovation is the goal, precision is the key, Wire the future and fulfill your destiny .
                         </b>
                         <br></br>
+                        <br></br>
+                        
 
-                        Techtronix, where innovation meets imagination, and the future unfolds in a tapestry of amelioration technology. As the premier branch fest of the Electronics and Telecommunication Engineering department, Techtronix promises to be a celebration of brilliance, creativity, and the limitless potential of the electronic realm.Thrilling competitions that push boundaries, from collaborative hackathons and innovative circuit design to thought-provoking poster presentations. Deepening your understanding through insightful talks delivered by industry experts and gaining invaluable insights into the latest advancements and career possibilities.
+                        Step into an advanced arena of engineering excellence at Techtronix 2K26 featuring intensive hackathons, precision circuit design challenges, cryptic logic quests, and research-driven presentations. Collaborate with industry veterans to decode emerging technological paradigms, explore high-impact career roadmaps, and master the complexities of the rapidly shifting global engineering landscape.
+                        <br></br>
+                        <br></br>
+                        Mark your calendars and prepare to engineer the future!
                     </Box>
                 </motion.div>
             </Box>
