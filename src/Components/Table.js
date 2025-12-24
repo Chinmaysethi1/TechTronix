@@ -16,7 +16,7 @@ function Table() {
         </tr>
         <tr>
             <td>3:05pm - 3:10pm</td>
-            <td>Welcome address by HoP, ETCEngg/Convenor</td>
+            <td>Welcome address by HoP, ETC Engg/Convenor</td>
         </tr>
         <tr>
             <td>3:10pm – 3:15pm</td>
@@ -70,7 +70,7 @@ function Table() {
     </tr>
     <tr>
         <td>10:30am – 1:00pm</td>
-        <td>Hack sphere (Hackathon)</td>
+        <td>Hacksphere (Hackathon)</td>
     </tr>
     <tr>
         <td>10:30am – 1:00pm</td>
