@@ -85,7 +85,7 @@ Hosted under TECHTRONIX by the EL & TC Society, Hackspere is a platform for crea
         ,
         rules: ["Participation for the event will be only accepted for groups.","Each group must contain 4 members.","In first round, Each team will have to submit an abstact within 200 word along with PPT.","Each team will get 2 to 3 minutes to present their PPT.","In the second round, the selected teams will have to prepare the solution for their respective problem statement.","Each participant can only participate in one group." ],
         time: `10.01.2026 - 10:00am-01:00pm`,
-        venue: "Auditorium VSSUT",
+        venue: "E.Learning VSSUT",
         url : 'https://forms.gle/13Xi8Fz2VaTFmYiLA'
     },
     {
